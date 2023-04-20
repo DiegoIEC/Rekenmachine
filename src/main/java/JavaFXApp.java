@@ -93,7 +93,7 @@ public class JavaFXApp extends Application {
     }
 
     /*
-     * Er wordt een textfield toegevoegd aan het scherm.
+     * Er wordt een textfield  toegevoegd aan het scherm.
      */
     private TextField addTextField (String prompt, boolean isFocusTraversable, int width, int x, int y) {
 
